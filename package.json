@@ -1,0 +1,23 @@
+{
+  "name": "random.cxx",
+  "version": "1.5.0",
+  "description": "Random for modern C++ with convenient API; Illia (2017).",
+  "keywords": [
+    "c",
+    "library",
+    "random",
+    "cpp",
+    "c++",
+    "header-only"
+  ],
+  "homepage": "https://github.com/nodef/random.cxx#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/random.cxx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/random.cxx.git"
+  },
+  "license": "MIT",
+  "main": "random.h"
+}
